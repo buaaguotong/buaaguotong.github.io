@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received my Ph.D. and Bachelor’s degrees (with honors) from the School of Electronic and Information Engineering at Beihang University in 2025 and 2019, respectively. My research interests include Combinatorial Optimization and Evolutionary Learning Optimization, Air Traffic Management, and Urban Air Mobility. 
+I received my Ph.D. and Bachelor’s degrees (with honors) from the School of Electronic and Information Engineering at Beihang University in 2025 and 2019, respectively. My research interests include *Combinatorial Optimization and Evolutionary Learning Optimization*, *Air Traffic Management*, and *Urban Air Mobility*. 
 
 During my doctoral studies, I had the privilege of receiving guidance from Prof. Ke Tang at Southern University of Science and Technology, Dr. Yi Mei and Prof. Mengjie Zhang at Victoria University of Wellington.  
 
@@ -14,12 +14,12 @@ I am a member of the IEEE Computational Intelligence Society (CIS) and Intellige
 
 Honors and Awards
 ======
-* **High-Impact Paper Award**, (by the Chinese Journal of Aeronautics, Ranked 1/1), January 2024
-* **Second Prize of the Science and Technology Progress Award**, (by the China Intelligent Transportation Association, Ranked 5/10), (中国智能交通协会科技进步二等奖), October 2023
-* **National Scholarship for Ph.D. Candidate**, (by Ministry of Education of China, Ranked 1/1), January 2024
-* **National Scholarship for Graduate Students**, (by Ministry of Education of China, Ranked 1/1), October 2020
-* **Beijing Outstanding Graduate Award**, (by the Beijing Municipal Education Commission), June 2019
-* **Star of Academic Excellence**, (by Beihang University, Highest Undergraduate Honor, Ranked 1/1), December 2018
+* **High-Impact Paper Award**, (by the *Chinese Journal of Aeronautics*, Ranked 1/1), January 2024
+* **Second Prize of the Science and Technology Progress Award**, (by the *China Intelligent Transportation Association*, Ranked 5/10), (中国智能交通协会科技进步二等奖), October 2023
+* **National Scholarship for Ph.D. Candidate**, (by *Ministry of Education of China*, Ranked 1/1), January 2024
+* **National Scholarship for Graduate Students**, (by *Ministry of Education of China*, Ranked 1/1), October 2020
+* **Beijing Outstanding Graduate Award**, (by the *Beijing Municipal Education Commission*), June 2019
+* **Star of Academic Excellence**, (by *Beihang University*, Highest Undergraduate Honor, Ranked 1/1), December 2018
 * **First Prize in the National Undergraduate Mathematical Contest in Modeling**, (Ranked 1/3), October 2017
 * **Silver Award in the China“Internet+”Innovation and Entrepreneurship Competition**, (Ranked 2/10), August 2023
 
