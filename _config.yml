@@ -12,7 +12,7 @@ title                    : "Tong GUO's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://buaaguotong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://buaaguotong.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,17 +27,17 @@ author:
   bio              : "Doctor of Philosophy - PhD, Evolutionary Combinortorial Optimization and Learning"
   location         : "Beijing, China"
   employer         : "Beihang University"
-  uri              : https://buaaguotong.github.io
+  uri              : "https://buaaguotong.github.io"
   email            : "buaaguotong@foxmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=JQ-U38UAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Tong-Guo-12" # URL
   scopus           : # URL
 
   # Repositories and software development
