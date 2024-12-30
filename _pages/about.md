@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+He is a member of the IEEE Computational Intelligence Society (CIS) and Intelligent Transportation Systems Society
+(ITSS). His research focuses on combinatorial optimization and evolutionary learning optimization. He
+has published 14 papers in JCR Q1 SCI journals, such as IEEE Transactions and the Transportation Research
+(6 papers authored as first author or supervisor as first author), with 8 SCI papers under review (6
+as first/corresponding author). He holds 26 Chinese national invention patents, 2 U.S. invention patents, and
+3 registered software copyrights. His research achievements have received 200+ Google scholar citations. He
+has been selected for the doctoral program of the Youth Talent Support Project by the China Association for
+Science and Technology in 2024. Additionally, he received the High-impact Paper Award from the Chinese Journal
+of Aeronautics.
 
 A data-driven personal website
 ======
