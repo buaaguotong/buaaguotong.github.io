@@ -26,12 +26,28 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* * **Programming Languages**:  
+  * Python
+  * MATLAB
+  * C++
+    
+* **Software/Tools**:  
+  * TensorFlow
+  * PyTorch
+  * LaTeX
+    
+* **Analytical Skills**:  
+  * Data analysis and visualization
+  * Statistical modeling and inference
+  * Optimization algorithms
+  * Machine learning model development
+ 
+* **Research Skills**:  
+  * Data analysis and visualization
+  * Statistical modeling and inference
+  * Optimization algorithms
+  * Machine learning model development
 
 Publications
 ======
