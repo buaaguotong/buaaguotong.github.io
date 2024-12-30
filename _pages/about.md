@@ -6,22 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I received my Ph.D. and Bachelor’s degrees (with honors) from the School of Electronic and Information Engineering at Beihang University in 2025 and 2019, respectively. My research interests include Combinatorial Optimization and Evolutionary Learning Optimization, Air Traffic Management, and Urban Air Mobility. I was mentored by Prof. Wenbo Du during my doctoral studies. Additionally, I had the privilege of receiving guidance from Prof. Ke Tang at Southern University of Science and Technology, Dr. Yi Mei and Prof. Mengjie Zhang at Victoria University of Wellington.  
 
-He is a member of the IEEE Computational Intelligence Society (CIS) and Intelligent Transportation Systems Society
-(ITSS). His research focuses on combinatorial optimization and evolutionary learning optimization. He
-has published 14 papers in JCR Q1 SCI journals, such as IEEE Transactions and the Transportation Research
-(6 papers authored as first author or supervisor as first author), with 8 SCI papers under review (6
-as first/corresponding author). He holds 26 Chinese national invention patents, 2 U.S. invention patents, and
-3 registered software copyrights. His research achievements have received 200+ Google scholar citations. He
-has been selected for the doctoral program of the Youth Talent Support Project by the China Association for
-Science and Technology in 2024. Additionally, he received the High-impact Paper Award from the Chinese Journal
-of Aeronautics.
+I am a member of the IEEE Computational Intelligence Society (CIS) and Intelligent Transportation Systems Society (ITSS). I serve as a reviewer for over ten SCI journals, including prestigious publications such as IEEE Transactions on Evolutionary Computation (TEVC), IEEE Intelligent Transportation Systems Magazine (ITSM), and Complex & Intelligent Systems.
 
-A data-driven personal website
+Honors and Awards
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* National Scholarship
 
 Getting started
 ======
