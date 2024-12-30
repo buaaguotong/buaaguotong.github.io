@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal_image.JPG"
   name             : "Tong GUO"
   pronouns         : # example: "he/his"  
   bio              : "Doctor of Philosophy - PhD, Evolutionary Combinortorial Optimization and Learning"
   location         : "Beijing, China"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "Beihang University"
+  uri              : https://buaaguotong.github.io
   email            : "buaaguotong@foxmail.com" 
 
   # Academic websites
