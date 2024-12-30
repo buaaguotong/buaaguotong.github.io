@@ -11,26 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in School of Electronic and Information Engineering, Beihang University, 2025 (expected)
+* B.S. in Shenyuan Honors College, Beihang University, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April 2023 -- April 2024: Visiting Scholar
+  * School of Computer Science and Engineering, Victoria University of Wellington
+  * Supervisor: Dr. Yi Mei, Prof. Mengjie Zhang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb. 2017 -- May 2017: Visiting Scholar
+  * School of Sustainability and Barrett Honors College, Arizona State University
+  * Supervisor: Prof. Marty Anderies
   
 Skills
 ======
