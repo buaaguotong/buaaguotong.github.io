@@ -52,5 +52,9 @@ Skills
   
 Service and leadership
 ======
-* Reviewer for IEEE TEVC/TITS/ITSM/TNSE, Transportation Research Part C/E, Complex & Intelligent Systems
-* Program Committee (PC) Member for IEEE IJCNN/WCCI/CEC
+* **Reviewer**:
+  * IEEE TEVC/TITS/ITSM/TNSE
+  * Transportation Research Part C/E
+  * Complex & Intelligent Systems
+    
+* **Program Committee (PC) Member** for IEEE IJCNN/WCCI/CEC
