@@ -27,7 +27,7 @@ Work experience
 Skills
 ======
 
-* * **Programming Languages**:  
+* **Programming Languages**:  
   * Python
   * MATLAB
   * C++
@@ -49,24 +49,8 @@ Skills
   * Optimization algorithms
   * Machine learning model development
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for IEEE TEVC/TITS/ITSM/TNSE, Transportation Research Part C/E, Complex & Intelligent Systems
+* Program Committee (PC) Member for IEEE IJCNN/WCCI/CEC
