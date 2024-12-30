@@ -12,9 +12,17 @@ I am a member of the IEEE Computational Intelligence Society (CIS) and Intellige
 
 Honors and Awards
 ======
-* National Scholarship
+* High-Impact Paper Award (by the Chinese Journal of Aeronautics, Ranked 1/1), January 2024
+* Second Prize of the Science and Technology Progress Award, (by the China Intelligent Transportation Association, Ranked 5/10), (中国智能交通协会科技进步二等奖), October 2023
+* National Scholarship for Ph.D. Candidate (by Ministry of Education of China, Ranked 1/1), January 2024
+* National Scholarship for Graduate Students (by Ministry of Education of China, Ranked 1/1), October 2020
+* Beijing Outstanding Graduate Award (by the Beijing Municipal Education Commission), June 2019
+* Star of Academic Excellence (by Beihang University, Highest Undergraduate Honor, Ranked 1/1), December 2018
+* First Prize in the National Undergraduate Mathematical Contest in Modeling (Ranked 1/3), October 2017
+* Silver Award in the China“Internet+”Innovation and Entrepreneurship Competition (Ranked 2/10), August 2023
 
-Getting started
+
+Selected Publication
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
