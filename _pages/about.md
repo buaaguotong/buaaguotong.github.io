@@ -15,7 +15,7 @@ I am a member of the IEEE Computational Intelligence Society (CIS) and Intellige
 Honors and Awards
 ======
 * **High-Impact Paper Award**, (by the *Chinese Journal of Aeronautics*, Ranked 1/1), January 2024
-* **Second Prize of the Science and Technology Progress Award**, (by the *China Intelligent Transportation Association*, Ranked 5/10), (中国智能交通协会科技进步二等奖), October 2023
+* **Second Prize of the Science and Technology Progress Award**, (by the *China Intelligent Transportation Association*, Ranked 5/10), 中国智能交通协会科技进步二等奖, October 2023
 * **National Scholarship for Ph.D. Candidate**, (by *Ministry of Education of China*, Ranked 1/1), January 2024
 * **National Scholarship for Graduate Students**, (by *Ministry of Education of China*, Ranked 1/1), October 2020
 * **Beijing Outstanding Graduate Award**, (by the *Beijing Municipal Education Commission*), June 2019
