@@ -8,9 +8,10 @@ redirect_from:
 ---
 I received my Ph.D. and Bachelor’s degrees (with honors) from the School of Electronic and Information Engineering at Beihang University in 2025 and 2019, respectively. My research interests include *Combinatorial Optimization and Evolutionary Learning Optimization*, *Air Traffic Management*, and *Urban Air Mobility*. 
 
-During my doctoral studies, I had the privilege of receiving guidance from Prof. [Ke Tang](https://www.sustech.edu.cn/en/faculties/tangke.html) at Southern University of Science and Technology, Dr. [Yi Mei](https://people.wgtn.ac.nz/yi.mei) and Prof. [Mengjie Zhang](https://people.wgtn.ac.nz/Mengjie.Zhang) at Victoria University of Wellington.  
+I was advised by Prof. [Wenbo Du](https://shi.buaa.edu.cn/duwenbo/en/index.htm) and Prof. [Xianbin Cao](https://shi.buaa.edu.cn/caoxianbin/en/index.htm) at Beihang University. In addition, during my doctoral studies, I had the privilege of receiving guidance from Prof. [Ke Tang](https://www.sustech.edu.cn/en/faculties/tangke.html) at Southern University of Science and Technology, Dr. [Yi Mei](https://people.wgtn.ac.nz/yi.mei) and Prof. [Mengjie Zhang](https://people.wgtn.ac.nz/Mengjie.Zhang) at Victoria University of Wellington.  
 
-I am a member of the IEEE Computational Intelligence Society (CIS) and Intelligent Transportation Systems Society (ITSS). I serve as a reviewer for over ten SCI journals, including prestigious publications such as IEEE Transactions on Evolutionary Computation (TEVC), IEEE Intelligent Transportation Systems Magazine (ITSM), and Complex & Intelligent Systems.
+I am a member of the IEEE Computational Intelligence Society (CIS) and Intelligent Transportation Systems Society (ITSS). I serve as a reviewer for over ten SCI journals, including prestigious publications such as IEEE Transactions on Evolutionary Computation (TEVC), IEEE Intelligent Transportation Systems Magazine (ITSM), and Complex & Intelligent Systems. I am also serving as the Program Committee (PC) Member for sever international conferences, including IEEE IJCNN/WCCI/CEC.
+In 2025, I have been selected for the** doctoral program of the Youth Talent Support Project** by the China Association for Science and Technology (首届中国科协青年托举工程博士生项目).
 
 Honors and Awards
 ======
