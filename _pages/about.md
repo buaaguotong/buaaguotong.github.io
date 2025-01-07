@@ -15,6 +15,7 @@ In 2025, I have been selected for the** doctoral program of the Youth Talent Sup
 
 Honors and Awards
 ======
+* **Doctoral Program of the Youth Talent Support Project**, (by the *China Association for Science and Technology*, 首届中国科协青年托举工程博士生项目), Jan. 2025
 * **High-Impact Paper Award**, (by the *Chinese Journal of Aeronautics*, Ranked 1/1), January 2024
 * **Second Prize of the Science and Technology Progress Award**, (by the *China Intelligent Transportation Association*, Ranked 5/10), 中国智能交通协会科技进步二等奖, October 2023
 * **National Scholarship for Ph.D. Candidate**, (by *Ministry of Education of China*, Ranked 1/1), January 2024
