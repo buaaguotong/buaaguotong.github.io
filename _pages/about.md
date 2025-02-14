@@ -37,7 +37,8 @@ Selected Publication
 6. **Tong Guo**, **Wenbo Du*** (First-Authored by Supervisor), Jun Chen, Biyue Li, Guangxiang Zhu, and Xianbin Cao Cooperative pursuit of unauthorized UAVs in urban airspace via Multi-agent reinforcement learning, *Transportation Research Part C*, vol. 128, issn 0968-090X, Jul. 2021 (**IF=9.6; JCR Q1**)
 7. **Tong Guo**, **Yumeng Li** (First-Authored by Supervisor), Jun Chen, Jianjun Wu, Yu Zhang, Sameer Alam, Kaiquan Cai*, and Wenbo Du*. Urban Air Mobility: Review and Challenges, *IEEE Intelligent Transportation Systems Magazine*, Accepted (**IF=4.3; JCR Q1**)
 8. Jiahao Xing, **Tong Guo**, and Lu Tong*. Reliable truck-drone routing with dynamic synchronization: A highdimensional network programming approach, *Transportation Research Part C*, vol. 165, Aug. 2024 (**IF=9.6; JCR Q1**)
-9. Ruonan Zhai, Yi Mei*, **Tong Guo**, and Wenbo Du*. A Collaborative Drone-Truck Delivery System With Memetic Computing Optimization, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, vol. 54, no. 6, pp. 3618-3630, June 2024 (**IF=8.6; JCR Q1**)
+9. Ce Yu, Xianbin Cao, **Tong Guo (corresponding author)***. Enhanced Neighborhood Search with Knowledge Transfer for Multi-aircraft Collaborative Task Allocation in Emergency Scenarios, *Robotic Intelligence and Automation*, accepted in Feb. 25
+10. Ruonan Zhai, Yi Mei*, **Tong Guo**, and Wenbo Du*. A Collaborative Drone-Truck Delivery System With Memetic Computing Optimization, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, vol. 54, no. 6, pp. 3618-3630, June 2024 (**IF=8.6; JCR Q1**)
 
 
 For more info
