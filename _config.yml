@@ -21,7 +21,7 @@ repository               : "buaaguotong/buaaguotong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal_image.JPG"
+  avatar           : "guotong.png"
   name             : "Tong Guo"
   pronouns         : # example: "he/his"  
   bio              : "Postdoctoral Research Fellow"
