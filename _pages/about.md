@@ -6,19 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Research Fellow at Nanyang Technological University (NTU), Singapore. My research lies at the intersection of **combinatorial optimization**, **evolutionary computation**, **learning-assisted optimization**, and **intelligent transportation systems**, with recent work spanning vehicle routing, dynamic air traffic flow management, and low-altitude transportation.
+I am a Postdoctoral Research Fellow at College of Computing and Data Science, Nanyang Technological University (NTU), Singapore. Before that, I received my Ph.D. and bachelor's degree with honors from Beihang University in 2025 and 2019, respectively.
 
-I received my Ph.D. in the School of Electronic and Information Engineering from Beihang University in **June 2025**, where I ranked **1/319**. Before that, I earned my bachelor's degree with honors from the Shenyuan Honors College at Beihang University in **2019**.
+My current research lies at the intersection of combinatorial optimization, evolutionary computation, learning-assisted optimization, and intelligent transportation systems. I have published 20+ SCI papers which appears in top-tier venues, including IEEE TPAMI/TEVC/TITS/TAI/TMC/TSys.
 
-My publications have appeared in venues including **IEEE Transactions on Pattern Analysis and Machine Intelligence**, **IEEE Transactions on Evolutionary Computation**, **IEEE Transactions on Intelligent Transportation Systems**, **IEEE Transactions on Artificial Intelligence**, and **IEEE Transactions on Mobile Computing**. Across my work, I have published **20+ SCI papers**, including **16 first-author or corresponding-author papers**, and my research has received **600+ Google Scholar citations**.
-
-Selected Highlights
-======
-* Postdoctoral Research Fellow, Nanyang Technological University, Singapore, **August 2025 - Present**
-* Visiting Scholar, Victoria University of Wellington, New Zealand, **May 2023 - May 2024**
-* Visiting Scholar, Arizona State University, USA, **February 2017 - March 2017**
-* **2 ESI Highly Cited Papers and Hot Papers**
-* **10+ Chinese national invention patents and 2 U.S. invention patents**
 
 Selected Honors
 ======
@@ -33,7 +24,7 @@ Academic Service
 * Associate Editor, *Complex & Intelligent Systems*
 * Assistant Editor-in-Chief, *Journal of Transportation Information and Safety*
 * Program Committee Member, **IEEE IJCNN, IEEE CEC, IEEE WCCI, IEEE SSCI, PPSN, ACM GECCO**
-* Reviewer for journals including **IEEE TEVC**, **IEEE TNNLS**, **IEEE TITS**, **IEEE TAI**, **Knowledge-Based Systems**, **Expert Systems with Applications**, and **Applied Soft Computing**
+* Reviewer for 30+ SCI journals including IEEE TEVC/TNNLS/CIM/TAI/TITS/MITS/TNSE/TETCI, Knowledge-Based Systems, Expert Systems with Applications,  Engineering Applications of Artificial Intelligence, Information Sciences, Applied Soft Computing, Swarm and Evolutionary Computation, Transportation Research Part C: Emerging Technologies, and Neurocomputing.
 
 Links
 ======
