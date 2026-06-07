@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a Postdoctoral Research Fellow at College of Computing and Data Science, Nanyang Technological University (NTU), Singapore. Before that, I received my Ph.D. and bachelor's degree with honors from Beihang University in 2025 and 2019, respectively.
 
-My current research lies at the intersection of combinatorial optimization, evolutionary computation, learning-assisted optimization, and intelligent transportation systems. I have published 20+ SCI papers which appears in top-tier venues, including IEEE TPAMI/TEVC/TITS/TAI/TMC/TSys.
+My current research lies at the intersection of combinatorial optimization, evolutionary computation, learning-assisted optimization, and intelligent transportation systems. I have published 20+ SCI papers, which appear in top-tier venues, including IEEE TPAMI/TEVC/TITS/TAI/TMC/TSys.
 
 
 Selected Honors
