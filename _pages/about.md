@@ -15,6 +15,7 @@ Selected Honors
 ======
 * **Doctoral Program of the Youth Talent Support Project**, China Association for Science and Technology, **2024**
 * **National Grand Prize**, China Youth Science and Technology Innovation Challenge and Competition, **2025**
+*  **Second Prize of the Science and Technology Progress Award**, China Intelligent Transportation Association,  **2023 and 2025**
 * **National Scholarship**, Ministry of Education of China, **2020 and 2024**
 * **High-Impact Paper Award**, Chinese Journal of Aeronautics, **2024**
 * **Beijing Outstanding Graduate**, **2019 and 2025**
