@@ -22,8 +22,8 @@ Selected Honors
 
 Academic Service
 ======
-* Associate Editor, *Complex & Intelligent Systems*
-* Youth Editorial Board Membe, *Intelligence & Robotics*
+* Associate Editor, *Complex & Intelligent Systems* (JCR Q1)
+* Youth Editorial Board Member, *Intelligence & Robotics* (JCR Q2)
 * Assistant Editor-in-Chief, *Journal of Transportation Information and Safety*
 * Program Committee Member, **IEEE IJCNN, IEEE CEC, IEEE WCCI, IEEE SSCI, PPSN, ACM GECCO**
 * Reviewer for 30+ SCI journals including IEEE TEVC/TNNLS/CIM/TAI/TITS/MITS/TNSE/TETCI, Knowledge-Based Systems, Expert Systems with Applications,  Engineering Applications of Artificial Intelligence, Information Sciences, Applied Soft Computing, Swarm and Evolutionary Computation, Transportation Research Part C: Emerging Technologies, and Neurocomputing.
