@@ -24,7 +24,7 @@ Academic Service
 ======
 * Associate Editor, *Complex & Intelligent Systems* (JCR Q1)
 * Vice Chair, *[IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation](https://cis.taskforce.ieee.org/esco/)*
-* Youth Editorial Board Member, *Intelligence & Robotics* (JCR Q2)
+* Editorial Board Member, *Intelligence & Robotics* (JCR Q2)
 * Assistant Editor-in-Chief, *Journal of Transportation Information and Safety*
 * Publicity Chair, *[IEEE SSCI/CIES 2027](https://attend.ieee.org/ssci-2027/symposia/engineering-cyber-physical-systems/)*
 * Member, *IEEE CIS Content Creation Subcommitte*
