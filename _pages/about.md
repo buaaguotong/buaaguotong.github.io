@@ -22,10 +22,10 @@ Selected Honors
 
 Academic Service
 ======
-* Associate Editor, *Complex & Intelligent Systems* (JCR Q1)
+* Associate Editor, *[Complex & Intelligent Systems](https://link.springer.com/journal/40747)* (JCR Q1)
 * Vice Chair, *[IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation](https://cis.taskforce.ieee.org/esco/)*
-* Editorial Board Member, *Intelligence & Robotics* (JCR Q2)
-* Assistant Editor-in-Chief, *Journal of Transportation Information and Safety*
+* Editorial Board Member, *[Intelligence & Robotics](https://www.oaepublish.com/ir)* 
+* Assistant Editor-in-Chief, *[Journal of Transportation Information and Safety](http://www.jtxa.net/indexen.htm)*
 * Publicity Chair, *[IEEE SSCI/CIES 2027](https://attend.ieee.org/ssci-2027/symposia/engineering-cyber-physical-systems/)*
 * Member, *[IEEE CIS Content Creation Subcommitte](https://cis.ieee.org/activities/educational-activites/content-creation-sub-committee)*
 * Program Committee Member, *IEEE IJCNN, IEEE CEC, IEEE WCCI, IEEE SSCI, PPSN, ACM GECCO*
