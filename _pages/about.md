@@ -24,7 +24,7 @@ Academic Service
 ======
 * Associate Editor, *[Complex & Intelligent Systems](https://link.springer.com/journal/40747)* (JCR Q1)
 * Vice Chair, *[IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation](https://cis.taskforce.ieee.org/esco/)*
-* Guest Edigor, *[Frontiers in Artificial Intelligence](https://www.frontiersin.org/research-topics/84731/from-prediction-to-action-predictive-and-prescriptive-ai-for-complex-systems)*
+* Guest Editor, *[Frontiers in Artificial Intelligence](https://www.frontiersin.org/research-topics/84731/from-prediction-to-action-predictive-and-prescriptive-ai-for-complex-systems)*
 * Editorial Board Member, *[Intelligence & Robotics](https://www.oaepublish.com/ir)* 
 * Assistant Editor-in-Chief, *[Journal of Transportation Information and Safety](http://www.jtxa.net/indexen.htm)*
 * Publicity Chair, *[IEEE SSCI/CIES 2027](https://attend.ieee.org/ssci-2027/symposia/engineering-cyber-physical-systems/)*
