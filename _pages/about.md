@@ -27,7 +27,7 @@ Academic Service
 * Editorial Board Member, *Intelligence & Robotics* (JCR Q2)
 * Assistant Editor-in-Chief, *Journal of Transportation Information and Safety*
 * Publicity Chair, *[IEEE SSCI/CIES 2027](https://attend.ieee.org/ssci-2027/symposia/engineering-cyber-physical-systems/)*
-* Member, *IEEE CIS Content Creation Subcommitte*
+* Member, *[IEEE CIS Content Creation Subcommitte](https://cis.ieee.org/activities/educational-activites/content-creation-sub-committee)*
 * Program Committee Member, *IEEE IJCNN, IEEE CEC, IEEE WCCI, IEEE SSCI, PPSN, ACM GECCO*
 * Reviewer for 30+ SCI journals including *IEEE TEVC/TNNLS/CIM/TAI/TITS/MITS/TNSE/TETCI, Knowledge-Based Systems, Pattern Recognition, Expert Systems with Applications,  Engineering Applications of Artificial Intelligence, Information Sciences, Applied Soft Computing, Swarm and Evolutionary Computation, Transportation Research Part C: Emerging Technologies, and Neurocomputing*.
 
